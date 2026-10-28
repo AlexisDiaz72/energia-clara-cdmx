@@ -4,7 +4,7 @@ Aplicación web que ayuda a los hogares de la Ciudad de México a entender su re
 
 **2º lugar** en el hackatón *Juventudes por la transición energética justa de la Ciudad de México*, organizado por el PNUD México y la Secretaría de Desarrollo Económico de la CDMX (octubre de 2026). Proyecto en equipo; desarrollo principal de la aplicación: **Alexis Flores Díaz**.
 
-### [Ver demo en vivo](https://alexisdiaz72.github.io/energia-clara-cdmx/)
+### [Demo](https://alexisdiaz72.github.io/energia-clara-cdmx/)
 
 ## El problema
 
